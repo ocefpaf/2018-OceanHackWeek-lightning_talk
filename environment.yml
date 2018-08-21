@@ -1,0 +1,15 @@
+name: lightning
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - ctd
+  - erddapy
+  - gsw
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - matplotlib
+  - oceans
+  - palettable
+  - pocean-core
+  - rise
